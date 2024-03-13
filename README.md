@@ -1,9 +1,9 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/barmajli2) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/barmajli2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barmajli2) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@barmajli2) 
-[![YouTube](https://img.shields.io/badge/WhatsApp-%19c50b.svg?logo=WhatsApp&logoColor=white)](https://w.me/+201151101537) 
+[![YouTube](https://img.shields.io/badge/WhatsApp-%19c50b.svg?logo=WhatsApp&logoColor=white)](https://wsend.co/201151101537) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
