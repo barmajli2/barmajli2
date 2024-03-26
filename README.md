@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20learning;Always%20Search&font=Fira%20Code&center=true&width=440&height=45&color=238636&vCenter=true&size=22"></a>
+  
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/barmajli2) 
