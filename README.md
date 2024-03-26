@@ -19,7 +19,10 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=barmajli2&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+<!-- ttps://github-readme-stats.vercel.app/api?username=barmajli2&theme=dark&hide_border=true&include_all_commits=false&count_private=false -->
+![](https://camo.githubusercontent.com/77d3ccf63f96142103f1827ca1af67258b3dffea4e545ae7a0df89013c9d25d0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6261726d616a6c6932267468656d653d6461726b26686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365)<br/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
